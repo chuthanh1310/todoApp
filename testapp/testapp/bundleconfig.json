@@ -1,7 +1,0 @@
-[
-  {
-    "outputFileName": "wwwroot/js/site.min.js",
-    "inputFiles": [ "Scripts/main.js" ],
-    "minify": { "enabled": true }
-  }
-]

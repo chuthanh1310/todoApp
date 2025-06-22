@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BKAV\\AutoMapperMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|d:\\bkav\\automappermvc\\automappermvc\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|solutionrelative:automappermvc\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|d:\\bkav\\automappermvc\\automappermvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|solutionrelative:automappermvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|d:\\bkav\\automappermvc\\automappermvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|solutionrelative:automappermvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|d:\\bkav\\automappermvc\\automappermvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|solutionrelative:automappermvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|d:\\bkav\\automappermvc\\automappermvc\\bundleconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|solutionrelative:automappermvc\\bundleconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|d:\\bkav\\automappermvc\\automappermvc\\automappermvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|solutionrelative:automappermvc\\automappermvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|d:\\bkav\\automappermvc\\automappermvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|solutionrelative:automappermvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|d:\\bkav\\automappermvc\\automappermvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|solutionrelative:automappermvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|d:\\bkav\\automappermvc\\automappermvc\\repository\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|solutionrelative:automappermvc\\repository\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|d:\\bkav\\automappermvc\\automappermvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|solutionrelative:automappermvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|d:\\bkav\\automappermvc\\automappermvc\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|solutionrelative:automappermvc\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|d:\\bkav\\automappermvc\\automappermvc\\models\\todoviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|solutionrelative:automappermvc\\models\\todoviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|d:\\bkav\\automappermvc\\automappermvc\\models\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464C4BE-B2C4-4AFB-BFC9-35048EED837A}|AutoMapperMVC\\AutoMapperMVC.csproj|solutionrelative:automappermvc\\models\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AutoMapperMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AutoMapperMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T21:34:35.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.js",
+              "DocumentMoniker": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "AutoMapperMVC\\wwwroot\\js\\main.js",
+              "ToolTip": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "AutoMapperMVC\\wwwroot\\js\\main.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-22T21:07:56.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bundleconfig.json",
+              "DocumentMoniker": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\bundleconfig.json",
+              "RelativeDocumentMoniker": "AutoMapperMVC\\bundleconfig.json",
+              "ToolTip": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\bundleconfig.json",
+              "RelativeToolTip": "AutoMapperMVC\\bundleconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-22T21:06:06.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AutoMapperMVC\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AutoMapperMVC\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACIAAAAAAAAAAIBJwDkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-22T13:21:48.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AutoMapperMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AutoMapperMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwDYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T20:23:24.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AutoMapperMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AutoMapperMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwEQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:02:13.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\Repository\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "AutoMapperMVC\\Repository\\TodoRepository.cs",
+              "ToolTip": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\Repository\\TodoRepository.cs",
+              "RelativeToolTip": "AutoMapperMVC\\Repository\\TodoRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAzwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:07:44.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoMapperMVC.csproj",
+              "DocumentMoniker": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\AutoMapperMVC.csproj",
+              "RelativeDocumentMoniker": "AutoMapperMVC\\AutoMapperMVC.csproj",
+              "ToolTip": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\AutoMapperMVC.csproj",
+              "RelativeToolTip": "AutoMapperMVC\\AutoMapperMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T18:59:58.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "AutoMapperMVC\\appsettings.json",
+              "ToolTip": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\appsettings.json",
+              "RelativeToolTip": "AutoMapperMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T18:59:07.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\Program.cs",
+              "RelativeDocumentMoniker": "AutoMapperMVC\\Program.cs",
+              "ToolTip": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\Program.cs",
+              "RelativeToolTip": "AutoMapperMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T18:59:08.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\Models\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "AutoMapperMVC\\Models\\MappingProfile.cs",
+              "ToolTip": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\Models\\MappingProfile.cs",
+              "RelativeToolTip": "AutoMapperMVC\\Models\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T18:56:14.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TodoViewModels.cs",
+              "DocumentMoniker": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\Models\\TodoViewModels.cs",
+              "RelativeDocumentMoniker": "AutoMapperMVC\\Models\\TodoViewModels.cs",
+              "ToolTip": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\Models\\TodoViewModels.cs",
+              "RelativeToolTip": "AutoMapperMVC\\Models\\TodoViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T18:50:26.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "AutoMapperMVC\\Models\\Todo.cs",
+              "ToolTip": "D:\\BKAV\\AutoMapperMVC\\AutoMapperMVC\\Models\\Todo.cs",
+              "RelativeToolTip": "AutoMapperMVC\\Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T18:44:28.774Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
