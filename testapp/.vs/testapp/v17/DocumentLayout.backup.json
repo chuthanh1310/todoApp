@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BKAV\\testapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{958703F4-C370-42B9-AB49-B9F4059B046E}|testapp\\testapp.csproj|d:\\bkav\\testapp\\testapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958703F4-C370-42B9-AB49-B9F4059B046E}|testapp\\testapp.csproj|solutionrelative:testapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958703F4-C370-42B9-AB49-B9F4059B046E}|testapp\\testapp.csproj|d:\\bkav\\testapp\\testapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{958703F4-C370-42B9-AB49-B9F4059B046E}|testapp\\testapp.csproj|solutionrelative:testapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958703F4-C370-42B9-AB49-B9F4059B046E}|testapp\\testapp.csproj|d:\\bkav\\testapp\\testapp\\migrations\\202506222044408_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958703F4-C370-42B9-AB49-B9F4059B046E}|testapp\\testapp.csproj|solutionrelative:testapp\\migrations\\202506222044408_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958703F4-C370-42B9-AB49-B9F4059B046E}|testapp\\testapp.csproj|d:\\bkav\\testapp\\testapp\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958703F4-C370-42B9-AB49-B9F4059B046E}|testapp\\testapp.csproj|solutionrelative:testapp\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958703F4-C370-42B9-AB49-B9F4059B046E}|testapp\\testapp.csproj|d:\\bkav\\testapp\\testapp\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958703F4-C370-42B9-AB49-B9F4059B046E}|testapp\\testapp.csproj|solutionrelative:testapp\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958703F4-C370-42B9-AB49-B9F4059B046E}|testapp\\testapp.csproj|d:\\bkav\\testapp\\testapp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958703F4-C370-42B9-AB49-B9F4059B046E}|testapp\\testapp.csproj|solutionrelative:testapp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958703F4-C370-42B9-AB49-B9F4059B046E}|testapp\\testapp.csproj|d:\\bkav\\testapp\\testapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{958703F4-C370-42B9-AB49-B9F4059B046E}|testapp\\testapp.csproj|solutionrelative:testapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958703F4-C370-42B9-AB49-B9F4059B046E}|testapp\\testapp.csproj|d:\\bkav\\testapp\\testapp\\controllers\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958703F4-C370-42B9-AB49-B9F4059B046E}|testapp\\testapp.csproj|solutionrelative:testapp\\controllers\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "202506222044408_Initial.cs",
+              "DocumentMoniker": "D:\\BKAV\\testapp\\testapp\\Migrations\\202506222044408_Initial.cs",
+              "RelativeDocumentMoniker": "testapp\\Migrations\\202506222044408_Initial.cs",
+              "ToolTip": "D:\\BKAV\\testapp\\testapp\\Migrations\\202506222044408_Initial.cs",
+              "RelativeToolTip": "testapp\\Migrations\\202506222044408_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T20:44:45.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\BKAV\\testapp\\testapp\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "testapp\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\BKAV\\testapp\\testapp\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "testapp\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T20:44:34.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "D:\\BKAV\\testapp\\testapp\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "testapp\\Models\\Todo.cs",
+              "ToolTip": "D:\\BKAV\\testapp\\testapp\\Models\\Todo.cs",
+              "RelativeToolTip": "testapp\\Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T20:44:09.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\BKAV\\testapp\\testapp\\Global.asax.cs",
+              "RelativeDocumentMoniker": "testapp\\Global.asax.cs",
+              "ToolTip": "D:\\BKAV\\testapp\\testapp\\Global.asax.cs",
+              "RelativeToolTip": "testapp\\Global.asax.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T20:38:22.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BKAV\\testapp\\testapp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "testapp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\BKAV\\testapp\\testapp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "testapp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T20:20:47.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\BKAV\\testapp\\testapp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "testapp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\BKAV\\testapp\\testapp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "testapp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T20:09:07.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\BKAV\\testapp\\testapp\\Controllers\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "testapp\\Controllers\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\BKAV\\testapp\\testapp\\Controllers\\ApplicationDBContext.cs",
+              "RelativeToolTip": "testapp\\Controllers\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:48:44.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\BKAV\\testapp\\testapp\\Web.config",
+              "RelativeDocumentMoniker": "testapp\\Web.config",
+              "ToolTip": "D:\\BKAV\\testapp\\testapp\\Web.config",
+              "RelativeToolTip": "testapp\\Web.config",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-22T19:45:28.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
